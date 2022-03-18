@@ -1,2 +1,3 @@
 bye
 line
+line from user2
